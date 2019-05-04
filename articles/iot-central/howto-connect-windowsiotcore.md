@@ -40,7 +40,7 @@ In your Azure IoT Central application, use the **Device Explorer** page to add a
 
 ## Prepare the device
 
-For the device to connect to IoT Central, it needs a connection string.
+For the d   evice to connect to IoT Central, it needs a connection string.
 
 [!INCLUDE [iot-central-howto-connection-string](../../includes/iot-central-howto-connection-string.md)]
 
@@ -106,4 +106,4 @@ Numeric settings
 
 ## Next steps
 
-Now that you've learned how to connect a Raspberry Pi to your Azure IoT Central application, the suggested next step is to learn how to [set up a custom device template](howto-set-up-template.md) for your own IoT device.
+Now that you've learned how to connect a Windows IoT Core device to your Azure IoT Central application, the suggested next step is to learn how to [set up a custom device template](howto-set-up-template.md) for your own IoT device.
